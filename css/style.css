@@ -1,0 +1,115 @@
+#title {
+    background-color: #ff4c68;
+    background-image: linear-gradient(#CD5888,white);
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+h1 {
+    font-family: "Montserrat-Black",;
+    font-size:3rem;
+    line-height: 1.5;
+}
+h3 {
+    font-family: "Montesrrat-Black";
+    padding: 17% 0% 0% 0%;
+    font-size:3rem;
+}
+p {
+    color:#8f8f8f;
+}
+
+.navbar {
+    padding-bottom: 5%;
+   font-size:larger;
+   color: #434242;
+}
+.navbar-brand {
+    font-size:xx-large;
+    color: #434242;
+    font-family:serif;
+   
+}
+.download-button {
+
+    margin:8% 3% 5% 0%;
+    
+}
+.iphone-img {
+    width:60%;
+    transform: rotate(25deg);
+}
+
+.nav-item {
+    color: #ff4c68;
+}
+.feature-box {
+    margin-top: 2%;
+   text-align: center;
+   padding: 1%;
+}
+#features {
+    padding: 7% 15%;
+}
+.icon:hover {
+    color: #434242;
+}
+#testimonials {
+     padding: 7% 15%;
+     background-color: aquamarine;
+     background-image: linear-gradient(#E8F3D6,#91D8E4);
+     text-align: center;
+}
+.carousel-item{
+    padding: 7% 12%;
+}
+.testimonials-image{
+    width: 20%;
+    border-radius: 50%;
+    margin: 6% 0% 0% 0%;
+}
+.testimonials-txt{
+    font-size: xx-large;
+}
+
+#press{
+    margin-top: 12%;
+    text-align: center;
+    padding-left: 125px;
+    padding-right: 125px;
+    
+}
+.press-logo{
+    margin:20px 20px 50px;
+   
+}
+#pricing {
+    padding :140px;
+    background-image: linear-gradient(#E3ACF9,#FBF1D3);
+  
+}
+h2{
+    font-family: "Montserrat-Black",;
+    font-size:3rem;
+    line-height: 1.5; 
+}
+#cta {
+    margin-top: 0%;
+    text-align: center;
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+
+ 
